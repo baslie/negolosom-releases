@@ -6,7 +6,7 @@
 
 ---
 
-## 2.6.1 — отправлена на модерацию 18.09.2026
+## 2.6.1 — опубликована 18.09.2026
 
 `versionCode` 18 · [релиз на GitHub](https://github.com/baslie/negolosom-releases/releases/tag/v2.6.1)
 
