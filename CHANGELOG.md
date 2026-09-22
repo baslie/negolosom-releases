@@ -6,7 +6,7 @@
 
 ---
 
-## 2.9.0 — готовится к публикации
+## 2.9.0 — отправлена на модерацию 22.09.2026
 
 `versionCode` 21 · [релиз на GitHub](https://github.com/baslie/negolosom-releases/releases/tag/v2.9.0)
 
