@@ -20,7 +20,7 @@
 | | |
 |---|---|
 | Версия | **2.10.0** (`versionCode` 23) |
-| В RuStore | на модерации с 27.09.2026 |
+| В RuStore | опубликована 27.09.2026 |
 | Файл | [negolosom-2.10.0-23-release.apk](https://github.com/baslie/negolosom-releases/releases/download/v2.10.0/negolosom-2.10.0-23-release.apk) · 51,5 МБ |
 | SHA-256 | `7f2e661305a4cea1f1712cf7240a9ffd2eff21d02c6e0d5efbd3417c3fb412f5` |
 
@@ -196,7 +196,7 @@ GigaAM v3 — 214 МБ, Whisper small — 358 МБ. Обе не обязател
 
 | Версия | RuStore | APK здесь |
 |--------|---------|-----------|
-| **2.10.0** | отправлена на модерацию 27.09.2026 | [скачать](https://github.com/baslie/negolosom-releases/releases/tag/v2.10.0) |
+| **2.10.0** | опубликована 27.09.2026 | [скачать](https://github.com/baslie/negolosom-releases/releases/tag/v2.10.0) |
 | 2.9.1 | опубликована 24.09.2026 | [скачать](https://github.com/baslie/negolosom-releases/releases/tag/v2.9.1) |
 | 2.9.0 | не выпускалась | [скачать](https://github.com/baslie/negolosom-releases/releases/tag/v2.9.0) |
 | 2.8.0 | не выпускалась | [скачать](https://github.com/baslie/negolosom-releases/releases/tag/v2.8.0) |
