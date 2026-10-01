@@ -6,7 +6,7 @@
 
 ---
 
-## 2.11.0 — отправлена на модерацию 01.10.2026
+## 2.11.0 — опубликована 01.10.2026
 
 `versionCode` 24 · [релиз на GitHub](https://github.com/baslie/negolosom-releases/releases/tag/v2.11.0)
 
