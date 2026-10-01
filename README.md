@@ -7,7 +7,7 @@
 **Диктофон, который превращает голос в текст прямо на телефоне.**
 Без облака, без аккаунтов, без интернета.
 
-### [Скачать APK 2.10.0](https://github.com/baslie/negolosom-releases/releases/download/v2.10.0/negolosom-2.10.0-23-release.apk) · [Установить из RuStore](https://www.rustore.ru/catalog/app/com.baslie.negolosom)
+### [Скачать APK 2.11.0](https://github.com/baslie/negolosom-releases/releases/download/v2.11.0/negolosom-2.11.0-24-release.apk) · [Установить из RuStore](https://www.rustore.ru/catalog/app/com.baslie.negolosom)
 
 <sub>Android 7.0 и новее · только 64-битные устройства (arm64-v8a) · 51,5 МБ</sub>
 
@@ -15,26 +15,22 @@
 
 ---
 
-## Последняя версия — 2.10.0
+## Последняя версия — 2.11.0
 
 | | |
 |---|---|
-| Версия | **2.10.0** (`versionCode` 23) |
-| В RuStore | опубликована 27.09.2026 |
-| Файл | [negolosom-2.10.0-23-release.apk](https://github.com/baslie/negolosom-releases/releases/download/v2.10.0/negolosom-2.10.0-23-release.apk) · 51,5 МБ |
-| SHA-256 | `7f2e661305a4cea1f1712cf7240a9ffd2eff21d02c6e0d5efbd3417c3fb412f5` |
+| Версия | **2.11.0** (`versionCode` 24) |
+| В RuStore | на модерации с 01.10.2026 |
+| Файл | [negolosom-2.11.0-24-release.apk](https://github.com/baslie/negolosom-releases/releases/download/v2.11.0/negolosom-2.11.0-24-release.apk) · 51,5 МБ |
+| SHA-256 | `53186d66151e786e8b5f982b43072b5a76efc27214f29917b999dcd6d8e59c4a` |
 
 **Что нового:**
 
-1. Длинная расшифровка ставится на паузу, ждёт, пока перегретый телефон остынет, и после сбоя продолжается с места остановки, а не с нуля.
+1. Текст записи виден в карточке целиком — раскрывать не нужно. Пока запись распознаётся, карточка растёт, а лента едет к новому тексту. Выключается в настройках.
 
-2. Эксперимент: текст появляется прямо во время записи (Настройки → «Распознавать во время записи»).
+2. Кнопка «Дописать» — рядом с «Копировать» и «Отправить».
 
-3. Записывать можно, не открывая приложение: плитка «Записать» в «шторке» (Настройки → «Быстрый доступ»).
-
-4. Теги, дозапись «Додиктовать» и отмена удаления — в меню ⋮.
-
-5. Субтитры .srt стали точнее. Мелкие правки.
+3. Уведомление «Распознаю запись» больше не висит после конца распознавания.
 
 Вся история изменений — в [CHANGELOG.md](CHANGELOG.md), все сборки — на вкладке [Releases](https://github.com/baslie/negolosom-releases/releases).
 
@@ -50,7 +46,7 @@
 
 Способ для тех, у кого RuStore нет.
 
-1. Скачайте [negolosom-2.10.0-23-release.apk](https://github.com/baslie/negolosom-releases/releases/download/v2.10.0/negolosom-2.10.0-23-release.apk) на телефон.
+1. Скачайте [negolosom-2.11.0-24-release.apk](https://github.com/baslie/negolosom-releases/releases/download/v2.11.0/negolosom-2.11.0-24-release.apk) на телефон.
 2. Откройте файл — через «Загрузки» браузера или файловый менеджер.
 3. Android спросит разрешение **«Установка неизвестных приложений»** для той программы,
    из которой вы открываете файл. Разрешите — и нажмите «Установить» ещё раз.
@@ -196,7 +192,8 @@ GigaAM v3 — 214 МБ, Whisper small — 358 МБ. Обе не обязател
 
 | Версия | RuStore | APK здесь |
 |--------|---------|-----------|
-| **2.10.0** | опубликована 27.09.2026 | [скачать](https://github.com/baslie/negolosom-releases/releases/tag/v2.10.0) |
+| **2.11.0** | отправлена на модерацию 01.10.2026 | [скачать](https://github.com/baslie/negolosom-releases/releases/tag/v2.11.0) |
+| 2.10.0 | опубликована 27.09.2026 | [скачать](https://github.com/baslie/negolosom-releases/releases/tag/v2.10.0) |
 | 2.9.1 | опубликована 24.09.2026 | [скачать](https://github.com/baslie/negolosom-releases/releases/tag/v2.9.1) |
 | 2.9.0 | не выпускалась | [скачать](https://github.com/baslie/negolosom-releases/releases/tag/v2.9.0) |
 | 2.8.0 | не выпускалась | [скачать](https://github.com/baslie/negolosom-releases/releases/tag/v2.8.0) |
@@ -249,5 +246,5 @@ GigaAM v3 — 214 МБ, Whisper small — 358 МБ. Обе не обязател
 ---
 
 <sub>Исходный код приложения закрыт, здесь публикуются только готовые сборки.<br>
-README и CHANGELOG собираются скриптом из документации проекта, обновлено 27.09.2026.
+README и CHANGELOG собираются скриптом из документации проекта, обновлено 01.10.2026.
 Правки, внесённые в эти два файла вручную, будут затёрты при следующем релизе.</sub>
