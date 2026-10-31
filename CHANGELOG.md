@@ -6,6 +6,14 @@
 
 ---
 
+## 2.13.2 — отправлена на модерацию 31.10.2026
+
+`versionCode` 28 · [релиз на GitHub](https://github.com/baslie/negolosom-releases/releases/tag/v2.13.2)
+
+Исправлен сбой при запуске, если в списке есть очень длинная расшифровка
+
+---
+
 ## 2.13.1 — опубликована 10.10.2026
 
 `versionCode` 27 · [релиз на GitHub](https://github.com/baslie/negolosom-releases/releases/tag/v2.13.1)
