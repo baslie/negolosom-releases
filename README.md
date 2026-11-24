@@ -7,7 +7,7 @@
 **Диктофон, который превращает голос в текст прямо на телефоне.**
 Без облака, без аккаунтов, без интернета.
 
-### [Скачать APK 2.13.2](https://github.com/baslie/negolosom-releases/releases/download/v2.13.2/negolosom-2.13.2-28-release.apk) · [Установить из RuStore](https://www.rustore.ru/catalog/app/com.baslie.negolosom)
+### [Скачать APK 2.14.0](https://github.com/baslie/negolosom-releases/releases/download/v2.14.0/negolosom-2.14.0-29-release.apk) · [Установить из RuStore](https://www.rustore.ru/catalog/app/com.baslie.negolosom)
 
 <sub>Android 7.0 и новее · только 64-битные устройства (arm64-v8a) · 51,7 МБ</sub>
 
@@ -15,18 +15,18 @@
 
 ---
 
-## Последняя версия — 2.13.2
+## Последняя версия — 2.14.0
 
 | | |
 |---|---|
-| Версия | **2.13.2** (`versionCode` 28) |
-| В RuStore | опубликована 31.10.2026 |
-| Файл | [negolosom-2.13.2-28-release.apk](https://github.com/baslie/negolosom-releases/releases/download/v2.13.2/negolosom-2.13.2-28-release.apk) · 51,7 МБ |
-| SHA-256 | `b5e2cfa8b912d1838b0d81505c35a73da27be82ca5f389ca6c0318f635bc080c` |
+| Версия | **2.14.0** (`versionCode` 29) |
+| В RuStore | опубликована 22.11.2026 |
+| Файл | [negolosom-2.14.0-29-release.apk](https://github.com/baslie/negolosom-releases/releases/download/v2.14.0/negolosom-2.14.0-29-release.apk) · 51,7 МБ |
+| SHA-256 | `9d44c7795ccab0ff1864e23214df148874dbda5d71608135327e0cd4f2b247af` |
 
 **Что нового:**
 
-Исправлен сбой при запуске, если в списке есть очень длинная расшифровка
+Кнопки под расшифровкой остаются на месте после копирования. Длинный текст можно раскрыть кнопкой «Читать дальше», а из поиска — перейти к совпадению. При дозаписи видно, какую заметку дополняешь. Упростили очередь распознавания, выбор языка и экран первой записи.
 
 Вся история изменений — в [CHANGELOG.md](CHANGELOG.md), все сборки — на вкладке [Releases](https://github.com/baslie/negolosom-releases/releases).
 
@@ -42,7 +42,7 @@
 
 Способ для тех, у кого RuStore нет.
 
-1. Скачайте [negolosom-2.13.2-28-release.apk](https://github.com/baslie/negolosom-releases/releases/download/v2.13.2/negolosom-2.13.2-28-release.apk) на телефон.
+1. Скачайте [negolosom-2.14.0-29-release.apk](https://github.com/baslie/negolosom-releases/releases/download/v2.14.0/negolosom-2.14.0-29-release.apk) на телефон.
 2. Откройте файл — через «Загрузки» браузера или файловый менеджер.
 3. Android спросит разрешение **«Установка неизвестных приложений»** для той программы,
    из которой вы открываете файл. Разрешите — и нажмите «Установить» ещё раз.
@@ -178,7 +178,8 @@ GigaAM v3 — 214 МБ, Whisper small — 358 МБ. Обе не обязател
 
 | Версия | RuStore | APK здесь |
 |--------|---------|-----------|
-| **2.13.2** | опубликована 31.10.2026 | [скачать](https://github.com/baslie/negolosom-releases/releases/tag/v2.13.2) |
+| **2.14.0** | опубликована 22.11.2026 | [скачать](https://github.com/baslie/negolosom-releases/releases/tag/v2.14.0) |
+| 2.13.2 | опубликована 31.10.2026 | [скачать](https://github.com/baslie/negolosom-releases/releases/tag/v2.13.2) |
 | 2.13.1 | опубликована 10.10.2026 | [скачать](https://github.com/baslie/negolosom-releases/releases/tag/v2.13.1) |
 | 2.13.0 | опубликована 10.10.2026 | [скачать](https://github.com/baslie/negolosom-releases/releases/tag/v2.13.0) |
 | 2.12.0 | опубликована 05.10.2026 | [скачать](https://github.com/baslie/negolosom-releases/releases/tag/v2.12.0) |
@@ -236,5 +237,5 @@ GigaAM v3 — 214 МБ, Whisper small — 358 МБ. Обе не обязател
 ---
 
 <sub>Исходный код приложения закрыт, здесь публикуются только готовые сборки.<br>
-README и CHANGELOG собираются скриптом из документации проекта, обновлено 31.10.2026.
+README и CHANGELOG собираются скриптом из документации проекта, обновлено 24.11.2026.
 Правки, внесённые в эти два файла вручную, будут затёрты при следующем релизе.</sub>
