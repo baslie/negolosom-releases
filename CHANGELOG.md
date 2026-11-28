@@ -6,6 +6,14 @@
 
 ---
 
+## 2.15.0 — опубликована 28.11.2026
+
+`versionCode` 30 · [релиз на GitHub](https://github.com/baslie/negolosom-releases/releases/tag/v2.15.0)
+
+Новая модель распознавания GigaAM v4 — точнее прежней. На длинных файлах прогресс больше не застревает на 95 %, а распознавание не засыпает, когда гаснет экран.
+
+---
+
 ## 2.14.0 — опубликована 22.11.2026
 
 `versionCode` 29 · [релиз на GitHub](https://github.com/baslie/negolosom-releases/releases/tag/v2.14.0)
